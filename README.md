@@ -6,6 +6,7 @@ link coding https://drive.google.com/file/d/1M5-EZ5hWanD-BLIDaPhy1hWP4I6dYYGf/vi
 Alasan dikirim lewat drive
 - Karena repositories/proyek_akhir_123190024 mengalami error
 - Sampai sekarang masih belum terpecahkan errornya
+- size lebih dari 25mb (tidak bisa di upload manual)
 
 ## Blog Laravel 8 
 
